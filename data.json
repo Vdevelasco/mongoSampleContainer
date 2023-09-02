@@ -1,0 +1,38 @@
+[
+    { 
+        "name": "808-closed-hat-1",
+        "tags": ["one-shot", "hihat", "closed"],
+        "file": "808-closed-hat-1.wav"
+    },
+    { 
+        "name": "808",
+        "tags": ["one-shot", "kick", "trap"],
+        "file": "808.wav"
+    },
+    { 
+        "name": "ambient",
+        "tags": ["loop", "ambient"],
+        "file": "ambient.wav"
+        
+    },
+    { 
+        "name": "open-hat",
+        "tags": ["one-shot", "hihat", "open"],
+        "file": "open-hat.wav"
+    },
+    { 
+        "name": "snare",
+        "tags": ["one-shot", "snare"],
+        "file": "snare.wav"
+    },
+    { 
+        "name": "tabla",
+        "tags": ["one-shot", "percussion", "foreign"],
+        "file": "tabla.wav"
+    },
+    { 
+        "name": "trap",
+        "tags": ["loop", "trap"],
+        "file": "trap.wav"
+    }
+]
